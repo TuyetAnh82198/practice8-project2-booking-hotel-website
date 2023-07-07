@@ -1,0 +1,31 @@
+form {
+  display: grid;
+  grid-template-columns: auto;
+  text-align: center;
+  font-weight: bold;
+}
+.formdiv {
+  display: grid;
+  justify-content: center;
+}
+.formdiv p {
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+  font-size: 2rem;
+}
+.formdiv input {
+  margin-bottom: 0.5rem;
+  padding: 0.5rem;
+}
+.formdiv button {
+  color: white;
+  font-weight: bold;
+  background-color: #0071c2;
+  border: none;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-radius: 0.25rem;
+}
+.footer {
+  margin-top: 1rem;
+}
